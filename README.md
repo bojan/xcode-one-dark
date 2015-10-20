@@ -12,6 +12,8 @@ Or you can do it manually by downloading [One Dark.dvtcolortheme](https://raw.gi
 
 Note: Create the folder if it doesn't exist.
 
+The theme uses the open-source font [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html).
+
 ## Screenshot
 
 ![One Dark for Xcode](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark%20Screenshot.png)
