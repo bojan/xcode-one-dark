@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 12.0</string>
+	<string>Inconsolata - 14.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 12.0</string>
+	<string>Inconsolata - 14.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.87451 0.415686 0.45098 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Bold - 12.0</string>
+	<string>Inconsolata - 14.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 12.0</string>
+	<string>Inconsolata - 14.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 12.0</string>
+	<string>Inconsolata - 14.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.152941 0.168627 0.2 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -39,31 +39,31 @@
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.AppleSystemUIFontItalic - 13.0</string>
+	<string>.SFNSText-Italic - 13.0</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.823529 0.580392 0.364706 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.AppleSystemUIFont - 13.0</string>
+	<string>.SFNSText-Regular - 13.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.AppleSystemUIFont - 13.0</string>
+	<string>.SFNSText-Regular - 13.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.65098 0.698039 0.752941 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.AppleSystemUIFont - 18.2</string>
+	<string>.SFNSText-Regular - 18.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 31.2</string>
+	<string>.SFNSDisplay-Regular - 31.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 23.4</string>
+	<string>.SFNSDisplay-Regular - 23.4</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.65098 0.698039 0.752941 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.AppleSystemUIFontBold - 13.0</string>
+	<string>.SFNSText-Bold - 13.0</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.152941 0.168627 0.2 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
@@ -126,51 +126,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Monaco - 14.0</string>
+		<string>Inconsolata - 16.0</string>
 	</dict>
 </dict>
 </plist>
