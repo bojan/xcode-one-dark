@@ -1,19 +1,23 @@
-# Atom One Dark theme for Xcode
+# One Dark theme for Xcode
 
 This is a port of the original [Atom One Dark](https://github.com/atom/one-dark-syntax) theme for Xcode.
 
 ## Installation
 
-You can install the theme using [Alcatraz](http://alcatraz.io).
-
-Or you can do it manually by downloading [One Dark.dvtcolortheme](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark.dvtcolortheme) and copying it to:
+You can install the theme by downloading [One Dark.xccolortheme](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark.xccolortheme) and copying it to:
 
 	~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
-Note: Create the folder if it doesn't exist.
+Note: If the folder doesn't exist, create it manually.
 
-The theme uses the open-source font [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html).
+The theme uses the excellent open-source font [Fira Code](https://github.com/tonsky/FiraCode).
 
-## Screenshot
+## Screenshots
 
-![One Dark for Xcode](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark%20Screenshot.png)
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+
+	![Alamofire - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-alamofire.png)
+
+- [Marshal](https://github.com/utahiosmac/Marshal)
+
+	![Marshal - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-marshal.png)
