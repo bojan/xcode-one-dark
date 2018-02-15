@@ -14,10 +14,10 @@ The theme uses the excellent open-source font [Fira Code](https://github.com/ton
 
 ## Screenshots
 
-- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [Thingy](https://github.com/bojan/Thingy)
 
-	![Alamofire - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-alamofire.png)
+	![Thingy - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-thingy.png)
 
-- [Marshal](https://github.com/utahiosmac/Marshal)
+- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
 
-	![Marshal - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-marshal.png)
+	![XCGLogger - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-xcglogger.png)
