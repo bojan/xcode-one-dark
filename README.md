@@ -10,6 +10,8 @@ You can install the theme by downloading [One Dark.xccolortheme](https://raw.git
 
 Note: If the folder doesn't exist, create it manually.
 
+## Font
+
 The theme uses the excellent open-source font [Fira Code](https://github.com/tonsky/FiraCode).
 
 ## Screenshots
@@ -18,6 +20,6 @@ The theme uses the excellent open-source font [Fira Code](https://github.com/ton
 
 	![Thingy - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-thingy.png)
 
-- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
+- [Troop](https://github.com/bojan/Troop)
 
-	![XCGLogger - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-xcglogger.png)
+	![Troop - One Dark](https://raw.githubusercontent.com/bojan/xcode-one-dark/master/screenshot-troop.png)
